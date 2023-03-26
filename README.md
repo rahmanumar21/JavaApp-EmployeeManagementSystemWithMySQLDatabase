@@ -1,4 +1,4 @@
-# Java Employee Management System With MySQL Database
+# Java App - Employee Management System With MySQL Database
 This project use Java and MySQL as database.
 
 Steps to use this project:
